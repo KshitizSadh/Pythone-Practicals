@@ -37,4 +37,4 @@ def main():
     print(f"First {n} prime numbers: {first_n_primes}")
 
 if __name__ == "__main__":
-     main()
+      main()
