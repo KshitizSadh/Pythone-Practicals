@@ -1,1 +1,1 @@
-# Pythone-Practicals
+# Python-Practicals
